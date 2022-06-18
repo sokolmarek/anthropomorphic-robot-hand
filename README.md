@@ -29,6 +29,7 @@ too lazy to read the whole FusionApi documentation.
 As a hobbyist continuation of this project, I would like to get to design optimization 
 and then begin 3D prototyping and printing the finger, along with the construction of a 
 functional dual-twist mode actuation mechanism (more in report.pdf).
+
 ## References
 
 - [[1] S. H. Jeong, K. -S. Kim and S. Kim, "Designing Anthropomorphic Robot Hand With Active Dual-Mode Twisted String Actuation Mechanism and Tiny Tension Sensors," in IEEE Robotics and Automation Letters, vol. 2, no. 3, pp. 1571-1578, July 2017, doi: 10.1109/LRA.2017.2647800.](https://ieeexplore.ieee.org/document/7805142)

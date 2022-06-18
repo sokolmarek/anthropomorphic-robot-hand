@@ -1,0 +1,23 @@
+#
+# platform
+#
+# Materials for the file "my_hand.obj"
+#
+
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd my_handImagem1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file

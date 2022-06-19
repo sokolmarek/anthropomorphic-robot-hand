@@ -1,10 +1,8 @@
 # Anthropomorphic robot hand design
 
-Anthropomorphic robot hand design. This concept was developed from a semester-long school project in 
-the Design and Ergonomics of the Medical Products course. But I plan to continue with the project, so 
-it's work in progress. 
+This concept was developed from a semester-long school project in the Design and Ergonomics of the Medical Products course. But I plan to continue with the project, so it's a work in progress. 
 
-### [Click here to view in the official autodesk gallery](https://gallery.autodesk.com/projects/168645/anthropomorphic-robot-hand-concept)
+### [Click here to view in the official Autodesk gallery](https://gallery.autodesk.com/projects/168645/anthropomorphic-robot-hand-concept)
 
 <p align="center">
   <img src="https://github.com/sokolmarek/anthropomorphic-robot-hand/blob/main/Gallery/renders/cover.png?raw=true" />
@@ -13,7 +11,7 @@ it's work in progress.
 ## Fusion360 Add-in
 
 As part of this project, I also wrote a simple plugin for Fusion360 that reads the data
-stored by the OpenCV hand tracking script in real time. For now I'm uploading the initial 
+stored by the OpenCV hand tracking script in real-time. For now, I'm uploading the initial 
 version but FusionApi should be able to integrate third-party content into the built-in window 
 so later I'll upload an improved version where both scripts will be fused. 
 
@@ -21,7 +19,7 @@ so later I'll upload an improved version where both scripts will be fused.
   <img src="https://github.com/sokolmarek/anthropomorphic-robot-hand/blob/main/Gallery/fusion_addin.gif?raw=true" width="600" />
 </p>
 
-The plugin was mainly used to quickly demonstrate the hand movement and for wow effect. I was
+The plugin was mainly used to quickly demonstrate the hand movement and for a wow effect. I was
 too lazy to read the whole FusionApi documentation.
 
 ## Future work

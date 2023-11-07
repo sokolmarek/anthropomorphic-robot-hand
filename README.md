@@ -2,7 +2,7 @@
 
 This concept was developed from a semester-long school project in the Design and Ergonomics of the Medical Products course. But I plan to continue with the project, so it's a work in progress. 
 
-### [Click here to view in the official Autodesk gallery](https://gallery.autodesk.com/projects/168645/anthropomorphic-robot-hand-concept)
+### [Click here to view in the official Autodesk gallery](https://www.autodesk.com/community/gallery/project/168645/prosthetic-hand-1)
 
 <p align="center">
   <img src="https://github.com/sokolmarek/anthropomorphic-robot-hand/blob/main/Gallery/renders/cover.png?raw=true" />
